@@ -1,0 +1,15 @@
+@font-face {
+	font-display: swap;
+	font-family: "Familjen Grotesk";
+	font-style: normal;
+	font-weight: 400;
+	src: url("./familjen-grotesk-400.woff2") format("woff2");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: "Familjen Grotesk";
+	font-style: normal;
+	font-weight: 700;
+	src: url("./familjen-grotesk-600.woff2") format("woff2");
+}
